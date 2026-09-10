@@ -1,0 +1,82 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Problems.ATM.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Client",
+        "request": "launch",
+        "mainClass": "Structural_Patterns.ProxyPattern.ProxyPattern1.Client",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Problems.ParkingLot.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Problems.VendingMachine.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Behavioral_Patterns.MediatorPattern.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Behavioral_Patterns.IteratorPattern.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "MainCafe",
+        "request": "launch",
+        "mainClass": "Structural_Patterns.DecoratorPattern.MainCafe",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Structural_Patterns.AdapterPattern.AdapterPractice2.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Behavioral_Patterns.ObserverPattern.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "SingletonEagerTest",
+        "request": "launch",
+        "mainClass": "Creational_Patterns.SingletonPattern.SingletonEagerTest",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Launch BridgePattern Client",
+        "request": "launch",
+        "mainClass": "Structural_Patterns.BridgePattern.Client",
+        "cwd": "${workspaceFolder}"
+    }
+]
+}
