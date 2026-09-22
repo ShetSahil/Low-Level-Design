@@ -5,6 +5,13 @@
         "type": "java",
         "name": "Main",
         "request": "launch",
+        "mainClass": "Problems.LibraryManagementSystem.Main",
+        "projectName": "LLD_Design_Patterns_9d1a6f11"
+    },
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
         "mainClass": "Problems.ATM.Main",
         "projectName": "LLD_Design_Patterns_9d1a6f11"
     },
